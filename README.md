@@ -2,7 +2,7 @@
 
 # About:
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on .
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on exploring the factors that affect Heart Disease.
 
 # Contributors:
 1. @evertone13
@@ -14,7 +14,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 # Models Used:
-
+1. Linear Regression.
 
 
 # Conclusion:
@@ -25,3 +25,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 # References
+Cardio Dataset: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
