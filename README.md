@@ -4,11 +4,13 @@
 ### About:
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on exploring the factors that affect Heart Disease.
+
 ---
 ### Contributors:
 1. @evertone13
 2. @BryanTohWS
 3. @keithfykai
+
 ---
 ### Problem Statement:
 Our aim of these project is to help develop a trained model that is able to predict and detect the probability of contracting cardio vascular diseases based on a person’s current body readings.
