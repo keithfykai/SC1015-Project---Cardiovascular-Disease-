@@ -5,11 +5,11 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on exploring the factors that affect Heart Disease.
 
-###✨ Introduction:
-💡 What is Cardiovascular Disease?
+### Introduction:
+What is Cardiovascular Disease?
 Cardiovascular disease (CVD) is a general term that describes a disease of the heart or blood vessels. The term refers to set of diseases that one can be diagnosed with when blood flow to the heart, brain or body is reduced due to blood clots (Thrombosis) or a build-up of fatty deposits inside an artery, which usually leads to the artery becoming hard and narrow.
 
-4️⃣ Main Types of CVD:
+4️ Main Types of CVD:
 - Coronary Heart Disease
 - Stroke
 - Peripheral Arterial Disease
