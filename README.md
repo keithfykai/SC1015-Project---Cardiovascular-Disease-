@@ -48,8 +48,8 @@ We will do this by passing the cardio vascular dataset we have obtained from kag
 
 ---
 ### References
-Cardio Dataset: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
-Systolic and Diastolic Bounds: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
-Logistic Regression 1: https://www.nickmccullum.com/python-machine-learning/logistic-regression-python/ 
-Logistic Regression 2: https://towardsdatascience.com/quick-and-easy-explanation-of-logistics-regression-709df5cc3f1e 
-Normalization of Data: https://www.digitalocean.com/community/tutorials/normalize-data-in-python
+- Cardio Dataset: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
+- Systolic and Diastolic Bounds: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
+- Logistic Regression 1: https://www.nickmccullum.com/python-machine-learning/logistic-regression-python/ 
+- Logistic Regression 2: https://towardsdatascience.com/quick-and-easy-explanation-of-logistics-regression-709df5cc3f1e 
+- Normalization of Data: https://www.digitalocean.com/community/tutorials/normalize-data-in-python
