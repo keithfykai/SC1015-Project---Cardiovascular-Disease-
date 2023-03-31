@@ -9,16 +9,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 What is Cardiovascular Disease?
 Cardiovascular disease (CVD) is a general term that describes a disease of the heart or blood vessels. The term refers to set of diseases that one can be diagnosed with when blood flow to the heart, brain or body is reduced due to blood clots (Thrombosis) or a build-up of fatty deposits inside an artery, which usually leads to the artery becoming hard and narrow.
 
-4️ Main Types of CVD:
-- Coronary Heart Disease
-- Stroke
-- Peripheral Arterial Disease
-- Aortic Disease
-
-📈 Causing Factors:
-Risk factors for CVD include smoking, high blood pressure, high cholesterol levels, obesity, diabetes, and a family history of the disease. Lifestyle changes, such as maintaining a healthy diet and exercise regimen, quitting smoking, and managing these risk factors, can help prevent CVD. Additionally, medications and medical procedures may be recommended to treat or prevent CVD in certain cases.
-
-📊 Dataset:
+### Dataset:
 The Dataset that we have chosen is taken from Kaggle and contains data of a group of 70,000 patients, with CVD present in some of them. The data depicts certain factors and characteristics of these patients, some of which may have contributed to their CVD.
 
 We will explore this Dataset in this project.
