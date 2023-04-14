@@ -34,6 +34,12 @@ We will do this by passing the cardio vascular dataset we have obtained from kag
 
 ---
 ### Conclusion:
+- Accuracy of the 3 Models were extremely similar
+- This may be due to the nature of the dataset as it may have some inherent characteristics that make it easy for these models to achieve similar performance
+- Neural Network Classifier had the best accuracy out of the 3 Models
+- Models may also have been affected by the hyperparameters chosen
+- BMI has the highest correlation out of all the numerical variables with Cardio Vascular Disease
+- Inclusion of hyperparameters did help to boost the accuracy slightly
 
 
 ---
